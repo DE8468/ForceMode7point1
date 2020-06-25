@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceMode7point1", "ForceMode7point1.csproj", "{E1642FB2-8142-4979-8353-0B2B648416FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1642FB2-8142-4979-8353-0B2B648416FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1642FB2-8142-4979-8353-0B2B648416FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1642FB2-8142-4979-8353-0B2B648416FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1642FB2-8142-4979-8353-0B2B648416FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D56C940-9E95-4320-93B4-ABDD11570DD2}
+	EndGlobalSection
+EndGlobal
